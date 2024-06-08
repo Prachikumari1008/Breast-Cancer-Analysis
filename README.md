@@ -1,4 +1,4 @@
-# BreastCancer Prediction
+# Breast Cancer Using KNN Classifier
 
 ## Overview
 
